@@ -32,6 +32,7 @@
     ]
   },
   "devDependencies": {
-    "react-unit": "^3.0.3"
+    "jest": "24.7.1",
+    "react-test-renderer": "^16.8.6"
   }
 }
